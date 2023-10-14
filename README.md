@@ -1,6 +1,6 @@
 # project1
 
-Title: Local Pets in your Area
+Title: USA Unemployment Rates by Demographics
 
 Team Members:
 -Alyssa Cullinan
@@ -11,33 +11,31 @@ Team Members:
 
 
 Project Outline:
-Pull Petfinder API
-Breakdown to find local pets in Illinois vs. Wisconsin
-Summarize dogs available by breed, age, size, color and gender
-Compare two summaries to identify local differences
-Analyze data for "Black Dog Syndrome" and see if black dogs take longer to adopt
+Download Unemployment CSV
+Analyze data for trends based on race, age, gender and education across time
+Summarize findings to answer potential questions
+Explore the effects of the pandemic and recovery across specific groups of people
+Create Liner Regression based on age brackets
+Highlight potential wages based on education
 
 Potential Questions to Answer:
-What are the most common breeds available at X datapoint
-How is age of the dog correlate to number of days before adoption
-What traits are most frequently seen in available dogs
-Type of dog most frequently available
-Which dog breed has the shortest average time on the app
-Which searches are most popular based on location
-
+What age groups were most affected by the pandemic
+Which demographic groups were most affected
+How did the recovery efforts affect the unemployment rate across groups 
+How does age and education affect unemployment rate
+Which months on average have the highest unemployment
 
 Datasets:
-Pet Finder API
-https://www.petfinder.com/developers/v2/docs/
+USA Unemployment Statistics
+https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023
+
+Backup Dataset: https://www.kaggle.com/datasets/asaniczka/employment-to-population-ratio-for-usa-1979-2023
+
+Additional Dataset: https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-2022
 
 Task Breakdown:
 
 Next steps:
-Pull API, look at data structure, find different call parameters
-Create own files and push any found data to github branch
-
-Saturday Call: 4pm - Stephanie to send Zoom link
-Agenda:
-breakdown and assign tasks, will record for Luke
+Download and review CSV data prior to class Monday
 
 Monday after class for 30 min
