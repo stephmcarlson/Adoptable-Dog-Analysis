@@ -35,9 +35,3 @@ Task Breakdown:
 Next steps:
 Pull API, look at data structure, find different call parameters
 Create own files and push any found data to github branch
-
-Saturday Call: 4pm - Stephanie to send Zoom link
-Agenda:
-breakdown and assign tasks, will record for Luke
-
-Monday after class for 30 min
